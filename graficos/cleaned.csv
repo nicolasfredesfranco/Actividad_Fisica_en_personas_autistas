@@ -1,0 +1,83 @@
+index,author,year,critiria,type,country,min_age,max_age,men,women,proportional,gender
+1,alder,2022,crr,eo,usa,2,8,24,8,no,no
+2,arkesteyn,2021,crr,ar,belgica,3,18,0,0,no,si
+3,arnell,2022,crr,eo,suecia,12,16,8,4,no,no
+4,arnell,2020,c+isr+crr,eo,suecia,6,12,16,12,no,no
+5,arnell,2018,crr,eo,suecia,12,16,17,7,no,si
+6,bassette,2018,crr,eo,usa,18,21,1,2,no,no
+7,becerra,2021,crr,eo,usa,4,4,1,2,no,no
+8,bennett,2022,crr,eo,usa,13,18,24,10,si,no
+9,benson,2019,crr,eo,canada,18,35,23,9,no,no
+10,bishop,2022,crr,eo,usa,18,28,222,114,no,no
+11,blagrave,2022,c+isr+crr,eo,usa,8,14,5,3,no,no
+12,bo,2019,c+isr+crr,eo,china usa,8,12,9,0,no,no
+13,bremer,2020,crr,eo,canada,8,12,12,0,no,no
+14,bremer,2020,crr,eo,canada,6,13,158,44,no,no
+15,brown,2020,crr,eo,canada,4,17,161,39,no,no
+16,carey,2022,crr,eo,irlanda uk,5,18,0,24,no,no
+17,chu,2020,crr,eo,taiwan,12,18,63,0,no,no
+18,columna,2020,crr,eo,usa,5,14,9,0,no,no
+19,dahlgren,2021,crr,eo,usa,9,18,138,38,si,no
+20,djordjevic,2022,crr,ar,serbia,3,17,0,0,no,no
+21,esenturk,2021,crr,eo,turquia,9,14,8,6,no,no
+22,esenturk,2020,crr,eo,turquia,9,16,5,5,si,no
+23,fiscella,2021,c+isr+crr,eo,usa,6,17,7898,7538,no,no
+24,garcia,2020,crr,eo,usa,8,16,12,2,no,no
+25,garcia-pastor,2019,crr,eo,españa,7,48,56,22,no,si
+26,gehricke,2020,crr,eo,usa,6,11,304,71,no,si
+27,gehricke,2022,crr,eo,usa,6,12,124,24,no,si
+28,haegele,2021,crr,eo,usa,13,17,10,26,si,no
+29,hamm,2019,c+isr+crr,eo,usa,18,35,138,177,no,no
+30,hamm,2018,crr,eo,usa,18,35,92,50,no,no
+31,healy,2020,crr,eo,usa,6,17,2277,514,si,si
+32,healy,2018,crr,eo,usa,6,16,9,4,no,no
+33,healy,2018,c+isr+crr,ar,usa,2,22,0,0,no,no
+34,heffernan,2018,crr,eo,usa,5,9,13,2,no,no
+35,helsel,2022,crr,eo,usa,11,17,12,8,no,si
+36,helsel,2022,crr,eo,usa,11,17,12,8,no,si
+37,hillier,2020,crr,eo,usa,18,27,27,3,si,no
+38,hocking,2022,crr,eo,australia,10,17,9,1,no,no
+39,howells,2019,c+isr+crr,ar,australia,3,16,0,0,no,no
+40,hynes,2022,c+isr+crr,ar,usa,5,22,0,0,no,no
+41,jachyra,2021,crr,eo,canada,12,18,10,0,no,no
+42,jozkowski,2019,c+isr+crr,eo,usa,18,25,19,17,no,no
+43,ketcheson,2021,c+isr+crr,eo,usa,4,6,15,5,no,no
+44,ketcheson,2018,crr,eo,usa,2,5,36,17,no,no
+45,ketcheson,2021,crr,eo,usa,3,5,18,7,no,no
+46,kim,2020,crr,eo,korea usa,18,42,11,6,no,no
+47,kozlowski,2021,crr,eo,usa,7,12,52,6,no,no
+48,lee,2020,crr,eo,usa,20,40,9,8,no,no
+49,lee,2022,crr,eo,irlanda usa,10,17,70,22,no,no
+50,li,2022,c+isr+crr,eo,china,6,9,68,10,no,no
+51,liang,2020,crr,ar,china,6,17,0,0,no,no
+52,liang,2022,crr,ar,china,5,17,0,0,no,no
+53,lopez-valverde,2021,crr,ar,españa,18,12,0,0,no,si
+54,mahdi,2022,crr,eo,canada,6,14,15,3,no,no
+55,mason,2021,c+isr+crr,eo,usa,18,45,86,114,si,si
+56,mccoy,2020,crr,eo,usa,10,17,16514,15798,no,no
+57,monteiro,2022,crr,ar,brasil,3,18,0,0,no,no
+58,moraes,2022,crr,eo,brasil uk,10,16,22,0,no,no
+59,nguyen,2021,crr,eo,francia,7,17,50,0,no,no
+60,nichols,2019,crr,eo,usa,22,28,8,0,no,no
+61,oreskovic,2020,crr,eo,usa,6,10,8,4,no,no
+62,rech,2022,crr,ar,usa,2,18,0,0,no,no
+63,reinders,2019,c+isr+crr,ar,uk,4,21,0,0,no,no
+64,rosca,2022,crr,eo,rumania,8,14,20,8,no,no
+65,ruggeri,2020,crr,ar,usa,3,19,0,0,no,no
+66,sansi,2021,c+isr+crr,eo,turquia,6,11,32,13,no,no
+67,spratt,2018,c+isr+crr,eo,usa,15,27,7,5,no,no
+68,sung,2021,crr,eo,taiwan,4,6,36,17,no,no
+69,sung,2022,crr,eo,usa taiwan,6,18,68,0,no,no
+70,thomas,2021,crr,eo,australia,4,7,21,13,no,no
+71,thompson,2022,crr,ar,australia,18,85,0,0,no,si
+72,tomaszewski,2021,crr,eo,usa,18,55,27,11,no,no
+73,toscano,2018,c+isr+crr,eo,brasil,6,12,56,8,no,no
+74,tse,2020,c+isr+crr,eo,china,8,12,23,4,no,no
+75,tse,2019,crr,eo,china usa,8,12,32,8,no,no
+76,waldron,2022,crr,eo,usa,18,78,3451,919,no,si
+77,wong,2022,crr,ar,usa,3,41,0,0,no,no
+78,woodman,2018,crr,eo,usa,5,13,11,2,no,no
+79,ye,2019,crr,eo,china,11,14,20,4,no,no
+80,yu,2020,crr,eo,korea,20,29,35,0,no,no
+81,zhao,2018,c+isr+crr,eo,china,5,8,29,12,no,no
+82,zhong,2022,crr,ar,china,5,17,0,0,no,si

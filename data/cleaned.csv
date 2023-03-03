@@ -1,0 +1,83 @@
+index,author,year,critiria,type,country,min_age,max_age,men,women,proportional,gender
+1,alder,2022,0,EO,usa,2,8,24,8,0,0
+2,arkesteyn,2021,0,AR,belgica,3,18,0,0,0,1
+3,arnell,2022,0,EO,suecia,12,16,8,4,0,0
+4,arnell,2020,1,EO,suecia,6,12,16,12,0,0
+5,arnell,2018,0,EO,suecia,12,16,17,7,0,1
+6,bassette,2018,0,EO,usa,18,21,1,2,0,0
+7,becerra,2021,0,EO,usa,4,4,1,2,0,0
+8,bennett,2022,0,EO,usa,13,18,24,10,1,0
+9,benson,2019,0,EO,canada,18,35,23,9,0,0
+10,bishop,2022,0,EO,usa,18,28,222,114,0,0
+11,blagrave,2022,1,EO,usa,8,14,5,3,0,0
+12,bo,2019,1,EO,china usa,8,12,9,0,0,0
+13,bremer,2020,0,EO,canada,8,12,12,0,0,0
+14,bremer,2020,0,EO,canada,6,13,158,44,0,0
+15,brown,2020,0,EO,canada,4,17,161,39,0,0
+16,carey,2022,0,EO,irlanda uk,5,18,0,24,0,0
+17,chu,2020,0,EO,taiwan,12,18,63,0,0,0
+18,columna,2020,0,EO,usa,5,14,9,0,0,0
+19,dahlgren,2021,0,EO,usa,9,18,138,38,1,0
+20,djordjevic,2022,0,AR,serbia,3,17,0,0,0,0
+21,esenturk,2021,0,EO,turquia,9,14,8,6,0,0
+22,esenturk,2020,0,EO,turquia,9,16,5,5,1,0
+23,fiscella,2021,1,EO,usa,6,17,7898,7538,0,0
+24,garcia,2020,0,EO,usa,8,16,12,2,0,0
+25,garcia-pastor,2019,0,EO,españa,7,48,56,22,0,1
+26,gehricke,2020,0,EO,usa,6,11,304,71,0,1
+27,gehricke,2022,0,EO,usa,6,12,124,24,0,1
+28,haegele,2021,0,EO,usa,13,17,10,26,1,0
+29,hamm,2019,1,EO,usa,18,35,138,177,0,0
+30,hamm,2018,0,EO,usa,18,35,92,50,0,0
+31,healy,2020,0,EO,usa,6,17,2277,514,1,1
+32,healy,2018,0,EO,usa,6,16,9,4,0,0
+33,healy,2018,1,AR,usa,2,22,0,0,0,0
+34,heffernan,2018,0,EO,usa,5,9,13,2,0,0
+35,helsel,2022,0,EO,usa,11,17,12,8,0,1
+36,helsel,2022,0,EO,usa,11,17,12,8,0,1
+37,hillier,2020,0,EO,usa,18,27,27,3,1,0
+38,hocking,2022,0,EO,australia,10,17,9,1,0,0
+39,howells,2019,1,AR,australia,3,16,0,0,0,0
+40,hynes,2022,1,AR,usa,5,22,0,0,0,0
+41,jachyra,2021,0,EO,canada,12,18,10,0,0,0
+42,jozkowski,2019,1,EO,usa,18,25,19,17,0,0
+43,ketcheson,2021,1,EO,usa,4,6,15,5,0,0
+44,ketcheson,2018,0,EO,usa,2,5,36,17,0,0
+45,ketcheson,2021,0,EO,usa,3,5,18,7,0,0
+46,kim,2020,0,EO,korea usa,18,42,11,6,0,0
+47,kozlowski,2021,0,EO,usa,7,12,52,6,0,0
+48,lee,2020,0,EO,usa,20,40,9,8,0,0
+49,lee,2022,0,EO,irlanda usa,10,17,70,22,0,0
+50,li,2022,1,EO,china,6,9,68,10,0,0
+51,liang,2020,0,AR,china,6,17,0,0,0,0
+52,liang,2022,0,AR,china,5,17,0,0,0,0
+53,lopez-valverde,2021,0,AR,españa,18,12,0,0,0,1
+54,mahdi,2022,0,EO,canada,6,14,15,3,0,0
+55,mason,2021,1,EO,usa,18,45,86,114,1,1
+56,mccoy,2020,0,EO,usa,10,17,16514,15798,0,0
+57,monteiro,2022,0,AR,brasil,3,18,0,0,0,0
+58,moraes,2022,0,EO,brasil uk,10,16,22,0,0,0
+59,nguyen,2021,0,EO,francia,7,17,50,0,0,0
+60,nichols,2019,0,EO,usa,22,28,8,0,0,0
+61,oreskovic,2020,0,EO,usa,6,10,8,4,0,0
+62,rech,2022,0,AR,usa,2,18,0,0,0,0
+63,reinders,2019,1,AR,uk,4,21,0,0,0,0
+64,rosca,2022,0,EO,rumania,8,14,20,8,0,0
+65,ruggeri,2020,0,AR,usa,3,19,0,0,0,0
+66,sansi,2021,1,EO,turquia,6,11,32,13,0,0
+67,spratt,2018,1,EO,usa,15,27,7,5,0,0
+68,sung,2021,0,EO,taiwan,4,6,36,17,0,0
+69,sung,2022,0,EO,usa taiwan,6,18,68,0,0,0
+70,thomas,2021,0,EO,australia,4,7,21,13,0,0
+71,thompson,2022,0,AR,australia,18,85,0,0,0,1
+72,tomaszewski,2021,0,EO,usa,18,55,27,11,0,0
+73,toscano,2018,1,EO,brasil,6,12,56,8,0,0
+74,tse,2020,1,EO,china,8,12,23,4,0,0
+75,tse,2019,0,EO,china usa,8,12,32,8,0,0
+76,waldron,2022,0,EO,usa,18,78,3451,919,0,1
+77,wong,2022,0,AR,usa,3,41,0,0,0,0
+78,woodman,2018,0,EO,usa,5,13,11,2,0,0
+79,ye,2019,0,EO,china,11,14,20,4,0,0
+80,yu,2020,0,EO,korea,20,29,35,0,0,0
+81,zhao,2018,1,EO,china,5,8,29,12,0,0
+82,zhong,2022,0,AR,china,5,17,0,0,0,1

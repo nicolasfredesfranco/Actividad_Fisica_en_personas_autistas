@@ -1,0 +1,16 @@
+index,author,year,critiria,min_age,max_age,men,women,proportional,gender,country_1,country_2
+2,arkesteyn,2021,crr,3,18,0,0,no,si,belgica,belgica
+20,djordjevic,2022,crr,3,17,0,0,no,no,serbia,serbia
+33,healy,2018,c+isr+crr,2,22,0,0,no,no,usa,usa
+39,howells,2019,c+isr+crr,3,16,0,0,no,no,australia,australia
+40,hynes,2022,c+isr+crr,5,22,0,0,no,no,usa,usa
+51,liang,2020,crr,6,17,0,0,no,no,china,china
+52,liang,2022,crr,5,17,0,0,no,no,china,china
+53,lopez-valverde,2021,crr,18,12,0,0,no,si,españa,españa
+57,monteiro,2022,crr,3,18,0,0,no,no,brasil,brasil
+62,rech,2022,crr,2,18,0,0,no,no,usa,usa
+63,reinders,2019,c+isr+crr,4,21,0,0,no,no,uk,uk
+65,ruggeri,2020,crr,3,19,0,0,no,no,usa,usa
+71,thompson,2022,crr,18,85,0,0,no,si,australia,australia
+77,wong,2022,crr,3,41,0,0,no,no,usa,usa
+82,zhong,2022,crr,5,17,0,0,no,si,china,china
