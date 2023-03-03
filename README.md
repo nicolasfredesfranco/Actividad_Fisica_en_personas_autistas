@@ -1,1 +1,2 @@
-# Codigo de procesamiento de datos para la tesis de Anastasia Aguilera Elicer, optando al grado de magíster en medicina y ciencias del deporte.
+# Codigo de procesamiento de datos
+Tesis de Anastasia Aguilera Elicer para optar al grado de Magíster en medicina y ciencias del deporte.
