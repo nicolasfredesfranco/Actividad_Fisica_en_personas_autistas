@@ -1,0 +1,67 @@
+Evaluar actigrafo en actividad física y sueño.
+Desarrollar herramienta Q-sort para mapear condiciones de actividad física.
+Describir percepción de padres sobre actividad física de hijos autistas.
+Describir percepción de autistas sobre su participación en actividad física.
+Examinar efecto de intervención conductual multicomponente.
+Evaluar utilidad de cronogramas fotográficos de actividades.
+Comparar biomecánica entre adolescentes autistas y neurotípicos.
+Investigar diferencias en sueño, somnolencia y actividad física entre autistas y neurotípicos.
+Relacionar nivel de actividad física de padres con hijos.
+Comprender preferencias de actividad física de niños autistas con necesidades de comunicación complejas.
+Explorar si deterioro social en autistas moderó resultados motores de programa de actividad física.
+Evaluar efecto agudo del ejercicio sobre oxigenación cerebral en autistas varones.
+Examinar efecto de factores intrapersonales y ambientales en actividad física en contexto escolar.
+Examinar relación entre comportamiento de apoyo a actividad física de padres y niveles de actividad física de hijos autistas.
+Evaluar efectos de un programa de ejercicio de 16 semanas sobre niveles de ansiedad en niños autistas con niveles de apoyo altos.
+Asociar competencia en habilidades motoras con actividad física y autopercepción física en autistas.
+Describir estrategias y apoyo para mejorar la participación en actividad física de niños autistas hispanos.
+Estudiar relación entre actividad física y tiempo de pantalla en autistas versus neurotípicos.
+Evaluar eficacia de actividad física basada en WhatsApp en niños autistas.
+Explorar percepciones de padres sobre actividad física de niños autistas en pandemia.
+Examinar relación entre factores ambientales y actividad física en niños autistas.
+Examinar eficacia de un programa de judo en jóvenes autistas.
+Comparar composición corporal y nivel de actividad física entre niños y adultos autistas.
+Medir tasas de actividad física en autistas y comparar con población general.
+Evaluar eficacia de un protocolo de ejercicio para reducir ansiedad en niños autistas.
+Analizar variables demográficas o antropomórficas en ejercicio en adolescentes autistas versus neurotípicos.
+Examinar influencia del autismo y actividad física en calidad de vida relacionada con la salud.
+Examinar predictores de la Teoría de la Autodeterminación para actividad física en autistas.
+Examinar asociación entre factores ambientales, actividad física y tiempo de pantalla en niños autistas y neurotípicos.
+Examinar percepción de padres sobre intervención de actividad física en grupo privado de Facebook.
+Evaluar asociación entre actividad física, IMC y enfermedad cardiovascular subclínica en niños autistas.
+Evaluar viabilidad de yoga a distancia para mejorar habilidades relacionadas con actividad física en autistas.
+Evaluar la influencia del ambiente obesogénico familiar en adolescentes autistas en antropometría y actividad física.
+Evaluar la participación, actitudes y barreras para la participación de actividad física en adultos autistas.
+Evaluar el uso de tecnologías de juegos de realidad virtual y captura de movimiento de bajo costo para personalizar intervenciones motoras en autistas.
+Examinar cómo las fuerzas individuales, sociales y culturales influyen en la participación en la actividad física de sujetos autistas.
+Medir respuestas fisiológicas y psicológicas en autistas frente a juegos (exergaming) en diversas condiciones y determinar si jugar con compañero genera algún aporte.
+Examinar la relación bidireccional de las habilidades del lenguaje con las habilidades motoras.
+Comparar niveles de actividad física y habilidades motoras en niños autistas y neurotípicos.
+Examinar el impacto de la actividad física sobre indicadores de salud física y su relación con los síntomas de autismo.
+Describir el proceso de diseño de PuzzleWalk, una aplicación móvil gamificada que promueve la actividad física en adultos del espectro autista.
+Evaluar la viabilidad de un programa de ejercicio de alta intensidad para niños con autismo sin déficit intelectual y analizar los cambios asociados en el rendimiento físico.
+Evaluar la efectividad de la aplicación PuzzleWalk para aumentar la actividad física y disminuir el comportamiento sedentario en adultos.
+Examinar cómo los factores ambientales del vecindario y el apoyo de los padres están relacionados con los niveles de actividad física de niños autistas.
+Examinar la relación de problemas emocionales/conductuales con comportamiento sedentario medido con acelerómetro.
+Evaluar la viabilidad de integrar un perro de terapia en las sesiones de ejercicio y su eficacia para mejorar los resultados de la actividad física en niños del espectro autista.
+Evaluar si las puntuaciones del cociente de autismo (AQ) están relacionadas con el funcionamiento ejecutivo.
+Evaluar tasas de actividad física y malnutrición por exceso en población autista.
+Relacionar nivel actividad física con práctica presencial y virtual a largo plazo.
+Evaluar calidad del sueño en niños autistas y su relación con actividad física.
+Evaluar perspectiva de padres sobre barreras y facilitadores de actividad física en hijos adultos autistas.
+Probar eficacia de rutas a pie para aumentar actividad física en niños autistas.
+Analizar evolución de estabilidad postural en sujetos autistas tras entrenamiento de equilibrio.
+Analizar efectos de programa de actividad física inclusiva en habilidades motoras, sociales y actitudes en estudiantes autistas y neurotípicos.
+Evaluar entrenamiento de fuerza, educación nutricional y técnicas de reducción del estrés en población autista.
+Examinar diferencias en actividad física y desempeño motor entre sujetos autistas y neurotípicos.
+Examinar factores que afectan la actividad física y sedentarismo en niños autistas.
+Investigar competencia motora en niños autistas y neurotípicos de 4 a 7 años.
+Medir niveles de actividad física y calidad de vida en adultos autistas con discapacidad intelectual.
+Evaluar efecto de 48 semanas de ejercicio en perfil metabólico, autismo y calidad de vida en niños autistas.
+Examinar efecto del ejercicio en regulación emocional y conductual en niños autistas.
+Examinar impacto de actividad física en calidad de sueño y cognición en niños autistas.
+Investigar nivel de actividad física en adultos del espectro autista.
+Examinar efecto de la música sobre intensidad del ejercicio en niños autistas.
+Estudiar cómo los ejercicios estructurados afectan el comportamiento de personas autistas, observando su estado físico después de la intervención.
+Verificar cómo un programa de ejercicios educativos afecta la aptitud física y la función motora gruesa en adultos autistas con distintos niveles de apoyo.
+Analizar si un programa de actividad física estructurada de 12 semanas y 24 sesiones mejora la comunicación e interacción social recíproca en autistas.
